@@ -29,3 +29,7 @@ Order your DFN lunch from BrainX HR using Lunch Buddy.
    - Selects the location **ICC Techno Hub**
    - Selects the food type from `FOOD_TYPE`
    - Places your order
+
+## Coming soon
+
+- Add for friends / team
